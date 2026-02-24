@@ -1,0 +1,181 @@
+ 
+.p01{
+      margin-bottom:0px;
+      display:flex;
+      border:2px solid black;
+      h1{
+          font-size: 20px;
+          text-align:left;
+        }
+      p{
+          text-align:center;
+          font-size:12px;
+          border:2px solid black;
+          margin-left:400px;
+          padding:3px;
+        }
+    }   
+.div1{
+      display:flex;
+      background-color:saddlebrown;
+      a{
+        margin-left:350px;
+        padding-top:13px;
+        color:rgb(243, 167, 243);
+        text-decoration-line:none;
+       }
+       a:hover{color:lime;}
+      .p02{
+            margin-left:10px;
+            color:rgb(218, 238, 185);
+          }
+      .p03{
+            margin-left:50px;
+            color:rgb(218, 238, 185);
+          }
+      }
+nav{
+      margin-left:10px;
+      margin-right:10px;
+    }
+.div2{
+      background-color:black;
+      color:white;
+      padding:20px;
+      a{
+        padding-left:50px;
+        color:rgb(255, 185, 8);
+        text-decoration-line:none;
+       }
+      a:hover{color:aquamarine;}
+      .a01{padding-left:5px;}
+      .a02{padding-left:575px;}
+     }
+
+.div3{
+      padding:141px;
+      font-size:100px;
+      text-align:center;
+      font-family:serif;
+      font-style:italic;
+      color:brown;
+      b{color:#ff4400;}
+      background-image:url(Image/Liquor.webp);
+      background-repeat:no-repeat;
+      background-position:center;
+      background-size:cover;
+     }
+.btn1{
+      padding:15px;
+      margin-left:450px;
+      color:darkred;
+      background-color:cornflowerblue;
+      font-size:20px;
+      border-radius:20px;
+      font-family:cambria;
+     }
+.btn1:hover{
+      color:orange;
+      border:6px double darkblue;
+           }
+.btn2{
+      padding:15px;
+      margin-left:20px;
+      font-size:20px;
+      border-radius:20px;
+      background-color:rgb(70, 34, 34);
+      border:3px solid rebeccapurple;
+      color:darkcyan;
+      }
+.btn2:hover{
+      background-color:darkcyan;
+      color:hotpink;
+            }
+.div4{
+      display:flex; 
+      padding-left:80px;
+      padding-right:80px;
+      padding-top:20px;
+      padding-bottom:20px;
+      background-color:rgb(185, 78, 1);
+      gap:15px;
+      }
+.div4-1{
+      border:5px solid #a50303;
+      border-radius:33px;
+      display:flex;
+      text-align:justify;
+      h3{text-align:center;}
+      img{
+          height:170px;
+          width:100px;
+          padding-left:0px;
+          border-radius:30px;
+         }
+        }
+.div4-2{
+      border:5px solid rgb(177, 45, 45);
+      border-radius:33px;
+      display:flex;
+      text-align:justify;
+      h3{text-align:center;}
+      img{
+          height:170px;
+          width:100px;
+          padding-left:0px;
+          border-radius:30px;
+         }
+       }
+
+.div4-3{
+      border:5px solid rgb(212, 45, 45);
+      display:flex;
+      border-radius:33px;
+      text-align:justify;
+      h3{text-align:center;}
+      img{
+          height:170px;
+          width:100px;
+          padding-left:0px;
+          border-radius:30px;
+         }
+       }
+.div5{
+      border:12px double #ff1b1b;
+      background-color:rgb(136, 39, 4);
+      padding-top:60px;
+      padding-bottom:150px;
+      img{
+          float:left;
+          height:250px;
+          width:250px;
+          margin-left:200px;
+          margin-right:20px;
+          border:12px inset;
+          border-image-source:linear-gradient(45deg, rgb(179, 0, 255),crimson,olive);
+          border-image-slice:1;
+          padding:15px;
+         }
+      .p04{
+           text-align:justify;
+           margin-right:50px;
+           color:rgb(174, 203, 255);
+          .div6{
+                display:flex;
+                img{
+                    border:none;
+                    height:100px;
+                    width:100px;
+                    gap:2px;
+                    margin-left:0px;
+                    border-radius:100px;}
+                   }  
+           }
+      h2{
+         color:rgb(255, 185, 8);
+         }
+     }
+
+    
+
+
